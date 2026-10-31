@@ -387,7 +387,7 @@ internbridge/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/KjvRajesh11/internbridge.git
+   git clone https://github.com/Dhansri92/internbridge.git
    cd internbridge
    ```
 
@@ -576,5 +576,5 @@ No license has been specified yet for this repository. All rights are reserved b
 
 ## Contact
 
-- **Project Repository**: [https://github.com/KjvRajesh11/internbridge](https://github.com/KjvRajesh11/internbridge)
-- **Maintainer**: [KjvRajesh11](https://github.com/KjvRajesh11)
+- **Project Repository**: [https://github.com/Dhanasri92/internbridge](https://github.com/Dhanasri92/internbridge)
+- **Maintainer**: [Dhanasri92](https://github.com/Dhnasri92)
